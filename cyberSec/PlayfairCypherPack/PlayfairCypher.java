@@ -1,3 +1,6 @@
+package PlayfairCypherPack;
+
+
 import java.util.*;
 
 class PlayfairCypher {
