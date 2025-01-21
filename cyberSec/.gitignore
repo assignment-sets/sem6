@@ -1,0 +1,43 @@
+# Ignore the build directory (if using Maven, Gradle, or other build tools)
+build/
+target/
+bin/
+
+# Ignore compiled class files
+*.class
+
+# Ignore the Eclipse project files
+*.project
+*.classpath
+*.settings/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Maven-specific files (if you're using Maven)
+.mvn/
+pom.xml~
+
+# Ignore Gradle-specific files (if you're using Gradle)
+.gradle/
+build/
+
+# Ignore the JDK logs
+*.log
+
+# Ignore user-specific files (e.g., IDE configurations)
+*.swp
+*~.nib
+*.bak
+
+# Ignore JAR and WAR files (if not needed in the repository)
+*.jar
+*.war
+*.ear
+
+# Ignore .DS_Store files (macOS)
+.DS_Store
+
+# Ignore Thumbs.db (Windows)
+Thumbs.db
